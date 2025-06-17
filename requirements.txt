@@ -1,0 +1,4 @@
+telethon
+python-dotenv
+tabulate
+flask
