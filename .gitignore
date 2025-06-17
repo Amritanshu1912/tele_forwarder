@@ -1,2 +1,5 @@
 .env
-session.session
+*.session
+forwarded_cache.json
+__pycache__/
+*.pyc
